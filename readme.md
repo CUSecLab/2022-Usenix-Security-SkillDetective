@@ -1,5 +1,15 @@
 # SkillDetective: Automated Policy-Violation Detection of Voice Assistant Applications in the Wild
 
+You can find our paper [here](https://www.usenix.org/system/files/sec22-young.pdf). If you find our paper useful for you, please consider citing:
+
+      @inproceedings{young2022skilldetective,
+      title={$\{$SkillDetective$\}$: Automated $\{$policy-violation$\}$ detection of voice assistant applications in the wild},
+      author={Young, Jeffrey and Liao, Song and Cheng, Long and Hu, Hongxin and Deng, Huixing},
+      booktitle={31st USENIX Security Symposium (USENIX Security 22)},
+      year={2022}
+}
+
+
 ## Introduction
 
 In this work, we design and develop the SKILLDETECTIVE, which is a scalable and robust testing tool to identify policy-violating skills. SKILLDETECTIVE significantly extends skill testing capabilities in a broader context. We make the following contributions:
